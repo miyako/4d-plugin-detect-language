@@ -25,7 +25,7 @@ enum Encoding {
                               // CNS11643EUC, before that Teragram EUC-CN(!)
                               // See //i18n/basistech/basistech_encodings.h
   KOREAN_EUC_KR        = 16,  // Teragram KSC
-  UNICODE              = 17,  // Teragram Unicode
+  //UNICODE              = 17,  // Teragram Unicode
   CHINESE_EUC_DEC      = 18,  // Misnamed. Should be EUC_TW. Was Basis Tech
                               // CNS11643EUC, before that Teragram EUC.
   CHINESE_CNS          = 19,  // Misnamed. Should be EUC_TW. Was Basis Tech
