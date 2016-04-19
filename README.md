@@ -8,7 +8,8 @@ Detect text language, using TLD (by chromium)
 |🆗|🆗|🚫|🚫|
 
 Commands
----c
+---
+```c
 // --- CLD
 CLD Detect language
----
+```
