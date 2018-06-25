@@ -47,4 +47,3 @@ $reliable:=CLD Detect language ($text;$langName;$langCode;\
 CLD Is plain text;\
 $language3;$percent3;$score3)
 ```
----
