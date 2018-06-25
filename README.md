@@ -22,7 +22,7 @@ Parameter|Type|Description
 text|TEXT|
 langName|TEXT|
 langCode|TEXT|
-option|LONGINT|``CLD Is plain text``, ``CLD Is HTML``
+option|LONGINT|``CLD Is plain text`` or ``CLD Is HTML``
 language3|ARRAY TEXT|
 percent3|ARRAY LONGINT|
 score3|ARRAY REAL|
